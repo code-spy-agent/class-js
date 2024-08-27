@@ -1,8 +1,0 @@
-###
-GET http://localhost:5000/api/test
-
-###
-GET http://localhost:5000/api/movies/test
-
-###
-GET http://localhost:5000/api/movies
